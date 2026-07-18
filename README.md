@@ -1,4 +1,10 @@
 # 🚀 edgetunnel 2.1
+
+
+> **本仓库**：[`ZJ-zhangcn/edgetunnel`](https://github.com/ZJ-zhangcn/edgetunnel)（fork）  
+> **上游**：[`cmliu/edgetunnel`](https://github.com/cmliu/edgetunnel)  
+> 文档语言：简体中文
+
 ![后台页面](./img.png)
 
 [![Stars](https://img.shields.io/github/stars/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/stargazers)
